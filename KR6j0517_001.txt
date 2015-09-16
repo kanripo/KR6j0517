@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:04.060483
+#+DATE: 2015-08-30 20:34:04.559944
 #+TITLE: 堅牢地天儀軌
 #+PROPERTY: CBETA_ID T21n1286
 #+PROPERTY: ID KR6j0517
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1286
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0517_T_000-0354b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0517_T_001-0354b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1286¶
-
- 堅牢地天儀軌¶
+No. 1286¶
+堅牢地天儀軌¶
 ¶
 中天竺國大那蘭陀寺善無畏奉　詔譯¶
 (亦名輸娑迦羅三藏)¶
