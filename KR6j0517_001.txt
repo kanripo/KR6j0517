@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:04.559944
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:22
 #+TITLE: 堅牢地天儀軌
 #+PROPERTY: CBETA_ID T21n1286
 #+PROPERTY: ID KR6j0517
